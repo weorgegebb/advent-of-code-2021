@@ -18,3 +18,4 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${PROJECT_SOURCE_DIR}/../build/bin")
 
 add_subdirectory(demo)
 add_subdirectory(day1)
+add_subdirectory(day2)
