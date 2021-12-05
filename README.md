@@ -15,3 +15,4 @@ Fill this in!
 ---------------------|---------------------------- 
 Demo                 | Just a test
 Day 1                | Sonar Sweep
+Day 2                | Dive!
